@@ -1,0 +1,5 @@
+1. When we need to use a different file to the main file , we have to use <using static namespace>
+2. if we are creating a abstract class we have to write the modifier (public , private)
+3. There is no need of override keywords if we are inheriting the interface class 
+4. if we are writting < using System  >  in two different file , then we can use the same name as a variable in the files.
+5. we can directily is the interfaces to the different file , we have to use "namesapcec"  keyword 

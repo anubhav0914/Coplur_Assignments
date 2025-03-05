@@ -1,0 +1,15 @@
+/home/anubhav/Coplur_Course/Assignment/Assignment2_part2/obj/Debug/net9.0/Assignment2_part2.GeneratedMSBuildEditorConfig.editorconfig
+/home/anubhav/Coplur_Course/Assignment/Assignment2_part2/obj/Debug/net9.0/Assignment2_part2.AssemblyInfoInputs.cache
+/home/anubhav/Coplur_Course/Assignment/Assignment2_part2/obj/Debug/net9.0/Assignment2_part2.AssemblyInfo.cs
+/home/anubhav/Coplur_Course/Assignment/Assignment2_part2/obj/Debug/net9.0/Assignment2_part2.csproj.CoreCompileInputs.cache
+/home/anubhav/Coplur_Course/Assignment/Assignment2_part2/obj/Debug/net9.0/Assignment2_part2.sourcelink.json
+/home/anubhav/Coplur_Course/Assignment/Assignment2_part2/bin/Debug/net9.0/Assignment2_part2
+/home/anubhav/Coplur_Course/Assignment/Assignment2_part2/bin/Debug/net9.0/Assignment2_part2.deps.json
+/home/anubhav/Coplur_Course/Assignment/Assignment2_part2/bin/Debug/net9.0/Assignment2_part2.runtimeconfig.json
+/home/anubhav/Coplur_Course/Assignment/Assignment2_part2/bin/Debug/net9.0/Assignment2_part2.dll
+/home/anubhav/Coplur_Course/Assignment/Assignment2_part2/bin/Debug/net9.0/Assignment2_part2.pdb
+/home/anubhav/Coplur_Course/Assignment/Assignment2_part2/obj/Debug/net9.0/Assignment2_part2.dll
+/home/anubhav/Coplur_Course/Assignment/Assignment2_part2/obj/Debug/net9.0/refint/Assignment2_part2.dll
+/home/anubhav/Coplur_Course/Assignment/Assignment2_part2/obj/Debug/net9.0/Assignment2_part2.pdb
+/home/anubhav/Coplur_Course/Assignment/Assignment2_part2/obj/Debug/net9.0/Assignment2_part2.genruntimeconfig.cache
+/home/anubhav/Coplur_Course/Assignment/Assignment2_part2/obj/Debug/net9.0/ref/Assignment2_part2.dll
