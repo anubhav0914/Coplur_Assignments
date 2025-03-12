@@ -57,7 +57,7 @@ public interface ICustomerDetails{
 }
 // interface of regesteration 
 
-public interface IRegisteration :ICustomerDetails {
+public interface IRegisteration  {
 
     public int RegisterationNumber { get; set; }
     public void Register(Customer cust, ILogger log);
@@ -105,11 +105,7 @@ public class CustomerRegerstation : IRegisteration{
 
      private ILogger _log ;
      public int RegisterationNumber { get; set; }   // adding new feature
-     public int CustomerId { get; set; }
-     public string FirstName { get; set; }
-     public string LastName { get; set; }
-     public string Email { get; set; }
-     public CustomerType Type { get; set; }
+     
      public void Register(Customer cust, ILogger log)
       {
         try
@@ -234,8 +230,6 @@ public enum CustomerType
     Gold,
     Platinum
 }
-
-
 
 public static  class DataFactory {
 
