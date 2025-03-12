@@ -1,0 +1,15 @@
+/home/anubhav/Coplur_Course/Assignment/Assignment3_solid_principles/obj/Debug/net9.0/Assignment3_solid_principles.GeneratedMSBuildEditorConfig.editorconfig
+/home/anubhav/Coplur_Course/Assignment/Assignment3_solid_principles/obj/Debug/net9.0/Assignment3_solid_principles.AssemblyInfoInputs.cache
+/home/anubhav/Coplur_Course/Assignment/Assignment3_solid_principles/obj/Debug/net9.0/Assignment3_solid_principles.AssemblyInfo.cs
+/home/anubhav/Coplur_Course/Assignment/Assignment3_solid_principles/obj/Debug/net9.0/Assignment3_solid_principles.csproj.CoreCompileInputs.cache
+/home/anubhav/Coplur_Course/Assignment/Assignment3_solid_principles/obj/Debug/net9.0/Assignment3_solid_principles.sourcelink.json
+/home/anubhav/Coplur_Course/Assignment/Assignment3_solid_principles/bin/Debug/net9.0/Assignment3_solid_principles
+/home/anubhav/Coplur_Course/Assignment/Assignment3_solid_principles/bin/Debug/net9.0/Assignment3_solid_principles.deps.json
+/home/anubhav/Coplur_Course/Assignment/Assignment3_solid_principles/bin/Debug/net9.0/Assignment3_solid_principles.runtimeconfig.json
+/home/anubhav/Coplur_Course/Assignment/Assignment3_solid_principles/bin/Debug/net9.0/Assignment3_solid_principles.dll
+/home/anubhav/Coplur_Course/Assignment/Assignment3_solid_principles/bin/Debug/net9.0/Assignment3_solid_principles.pdb
+/home/anubhav/Coplur_Course/Assignment/Assignment3_solid_principles/obj/Debug/net9.0/Assignment3_solid_principles.dll
+/home/anubhav/Coplur_Course/Assignment/Assignment3_solid_principles/obj/Debug/net9.0/refint/Assignment3_solid_principles.dll
+/home/anubhav/Coplur_Course/Assignment/Assignment3_solid_principles/obj/Debug/net9.0/Assignment3_solid_principles.pdb
+/home/anubhav/Coplur_Course/Assignment/Assignment3_solid_principles/obj/Debug/net9.0/Assignment3_solid_principles.genruntimeconfig.cache
+/home/anubhav/Coplur_Course/Assignment/Assignment3_solid_principles/obj/Debug/net9.0/ref/Assignment3_solid_principles.dll

@@ -3,3 +3,15 @@
 3. There is no need of override keywords if we are inheriting the interface class 
 4. if we are writting < using System  >  in two different file , then we can use the same name as a variable in the files.
 5. we can directily is the interfaces to the different file , we have to use "namesapcec"  keyword 
+
+
+Solid Principle:
+
+1. SRP : (Single responsibilty) : the class must have only one responsibliity , one reason to change 
+2. Open , close Principle : open for extension , close for modification  (we will use the virtual to override and create new class and inherite the privious calass)
+3. LSP (Lisco substitution principle) : child class must be replceable he parent class
+4. ISP : (Interface segrigration principle )
+5. DIP : (Dependecny Inversion Principle)  : LOW Level class should depend on the abstraction 
+
+
+

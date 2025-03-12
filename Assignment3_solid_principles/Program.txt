@@ -1,0 +1,112 @@
+public class Program
+{
+    public static void Main(string[] args)
+    {
+
+    }
+}
+
+
+public class Customer
+{
+    public int CustomerId { get; set; }
+    public string FirstName { get; set; }
+    public string LastName { get; set; }
+    public string Email { get; set; }
+    public CustomerType Type { get; set; }
+    public void Register(Customer cust)
+    {
+        try
+        {
+            if (cust.Type == CustomerType.Bronze)
+            {
+                //some logic
+            }
+
+            if (cust.Type == CustomerType.Silver)
+            {
+                //some logic
+            }
+
+            if (cust.Type == CustomerType.Gold)
+            {
+                //some logic
+            }
+
+            if (cust.Type == CustomerType.Platinum)
+            {
+                //some logic
+            }
+
+            SaveCustomer();
+
+        }
+        catch (Exception ex)
+        {
+            //Logger 
+            Console.WriteLine($"Log Error: {ex.Message}");
+        }
+    }
+
+    public virtual bool SaveCustomer()
+    {
+        //save customer details to database
+        return true;
+    }
+
+    public int GetDiscountPercentage()
+    {
+        if (this.Type == CustomerType.Bronze)
+        {
+            return 15;
+        }
+
+        if (this.Type == CustomerType.Silver)
+        {
+            return 20;
+        }
+
+        if (this.Type == CustomerType.Gold)
+        {
+            return 25;
+        }
+
+        if (this.Type == CustomerType.Platinum)
+        {
+            return 27;
+        }
+
+        return 12;
+    }
+
+    public void ProcessOrder(Customer cust)
+    {
+        GetDiscountPercentage();
+        //Process Payment after Discount
+        //Send confirmation
+        //Log Order Activity
+        Console.WriteLine("Order Placed Successfully");
+    }
+}
+
+public class Leads : Customer
+{
+    //It is just a lead so need to save it in the database
+    public void GetDiscount()
+    {
+        int discount = GetDiscountPercentage();
+    }
+
+    public void ProcessOrder()
+    {
+        //some logic
+    }
+}
+
+public enum CustomerType
+{
+    Bronze,
+    Silver,
+    Gold,
+    Platinum
+}
