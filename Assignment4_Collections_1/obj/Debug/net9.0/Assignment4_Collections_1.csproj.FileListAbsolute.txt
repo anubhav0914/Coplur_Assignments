@@ -1,0 +1,15 @@
+/home/anubhav/Coplur_Course/Assignment/Assignment4_Collections_1/bin/Debug/net9.0/Assignment4_Collections_1
+/home/anubhav/Coplur_Course/Assignment/Assignment4_Collections_1/bin/Debug/net9.0/Assignment4_Collections_1.deps.json
+/home/anubhav/Coplur_Course/Assignment/Assignment4_Collections_1/bin/Debug/net9.0/Assignment4_Collections_1.runtimeconfig.json
+/home/anubhav/Coplur_Course/Assignment/Assignment4_Collections_1/bin/Debug/net9.0/Assignment4_Collections_1.dll
+/home/anubhav/Coplur_Course/Assignment/Assignment4_Collections_1/bin/Debug/net9.0/Assignment4_Collections_1.pdb
+/home/anubhav/Coplur_Course/Assignment/Assignment4_Collections_1/obj/Debug/net9.0/Assignment4_Collections_1.GeneratedMSBuildEditorConfig.editorconfig
+/home/anubhav/Coplur_Course/Assignment/Assignment4_Collections_1/obj/Debug/net9.0/Assignment4_Collections_1.AssemblyInfoInputs.cache
+/home/anubhav/Coplur_Course/Assignment/Assignment4_Collections_1/obj/Debug/net9.0/Assignment4_Collections_1.AssemblyInfo.cs
+/home/anubhav/Coplur_Course/Assignment/Assignment4_Collections_1/obj/Debug/net9.0/Assignment4_Collections_1.csproj.CoreCompileInputs.cache
+/home/anubhav/Coplur_Course/Assignment/Assignment4_Collections_1/obj/Debug/net9.0/Assignment4_Collections_1.sourcelink.json
+/home/anubhav/Coplur_Course/Assignment/Assignment4_Collections_1/obj/Debug/net9.0/Assignment4_Collections_1.dll
+/home/anubhav/Coplur_Course/Assignment/Assignment4_Collections_1/obj/Debug/net9.0/refint/Assignment4_Collections_1.dll
+/home/anubhav/Coplur_Course/Assignment/Assignment4_Collections_1/obj/Debug/net9.0/Assignment4_Collections_1.pdb
+/home/anubhav/Coplur_Course/Assignment/Assignment4_Collections_1/obj/Debug/net9.0/Assignment4_Collections_1.genruntimeconfig.cache
+/home/anubhav/Coplur_Course/Assignment/Assignment4_Collections_1/obj/Debug/net9.0/ref/Assignment4_Collections_1.dll
