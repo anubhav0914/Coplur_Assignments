@@ -1,0 +1,15 @@
+th{
+    border:#3d3a37;
+    border-color: aliceblue;
+    background-color: #3d3a37;
+    font-size: 35px;
+    padding: 13px;
+}
+
+tr{
+    font-size: 32px;
+    background-color: rgb(67, 151, 193);
+}
+.first{
+    background-color: aliceblue;
+}
